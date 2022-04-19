@@ -147,7 +147,7 @@ body {
 
 /* Start Landing */
 .landing {
-  background-image: url(images/portfolio-1.jpg);
+  background-color: black;
   background-size: cover;
   height: 100vh;
   position: relative
